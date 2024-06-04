@@ -1,0 +1,22 @@
+.bg-black ul {
+    font-weight: bold;
+    font-size: 18px;
+}
+.bg-black li{
+    font-weight: normal;
+    font-size: 15px;
+}
+.links{
+    text-decoration: none;
+    color: white;
+}
+.links:hover{
+  opacity: 0.8;
+}
+.btn{
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.btn:hover{
+    transform: translateY(-2px);
+}
